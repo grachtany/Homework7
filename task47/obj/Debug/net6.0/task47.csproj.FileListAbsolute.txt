@@ -1,0 +1,15 @@
+D:\Обучение\HomeWork7\task47\bin\Debug\net6.0\task47.exe
+D:\Обучение\HomeWork7\task47\bin\Debug\net6.0\task47.deps.json
+D:\Обучение\HomeWork7\task47\bin\Debug\net6.0\task47.runtimeconfig.json
+D:\Обучение\HomeWork7\task47\bin\Debug\net6.0\task47.dll
+D:\Обучение\HomeWork7\task47\bin\Debug\net6.0\task47.pdb
+D:\Обучение\HomeWork7\task47\obj\Debug\net6.0\task47.csproj.AssemblyReference.cache
+D:\Обучение\HomeWork7\task47\obj\Debug\net6.0\task47.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\HomeWork7\task47\obj\Debug\net6.0\task47.AssemblyInfoInputs.cache
+D:\Обучение\HomeWork7\task47\obj\Debug\net6.0\task47.AssemblyInfo.cs
+D:\Обучение\HomeWork7\task47\obj\Debug\net6.0\task47.csproj.CoreCompileInputs.cache
+D:\Обучение\HomeWork7\task47\obj\Debug\net6.0\task47.dll
+D:\Обучение\HomeWork7\task47\obj\Debug\net6.0\refint\task47.dll
+D:\Обучение\HomeWork7\task47\obj\Debug\net6.0\task47.pdb
+D:\Обучение\HomeWork7\task47\obj\Debug\net6.0\task47.genruntimeconfig.cache
+D:\Обучение\HomeWork7\task47\obj\Debug\net6.0\ref\task47.dll
