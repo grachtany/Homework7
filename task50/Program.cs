@@ -4,6 +4,17 @@
 // 5 9 2 3
 // 8 4 2 4
 // 17 -> такого числа в массиве нет
+void EnterElements(int rowsIndex, int colunsIndex, int[,] massive, int rows, int coluns)
+{
+    if ((rowsIndex < rows) && (rowsIndex > -1) && (colunsIndex < rows) && (colunsIndex > -1))
+        Console.WriteLine(massive[rowsIndex,colunsIndex]);
+    else 
+        Console.WriteLine ("Элемента с таким значением не существует. Введите новые значения");
+        rowsIndex = EnterNumber("Введите значение i: ");
+        colunsIndex = EnterNumber("Введите значение j: ");
+        Console.WriteLine(massive[rowsIndex,colunsIndex]);
+        
+}
 
 void ShowArray(int[,] massive)
 {
@@ -52,10 +63,7 @@ ShowArray(matrix);
 int i = EnterNumber("Введите значение i: ");
 int j = EnterNumber("Введите значение j: ");
 
+// Вывести элемент с заданной позицией или указание, что такого элемента нет и проверить новый индекс.
+EnterElements(i, j, matrix, m, n);
 
-// Вывести элемент с заданной позицией или указание, что такого элемента нет.
-if ((i < m && i > -1) && (j < n && j > -1))
-    Console.WriteLine(matrix[i, j]);
 
-else
-    Console.WriteLine($"Элемента с заданной позицией не существует");
