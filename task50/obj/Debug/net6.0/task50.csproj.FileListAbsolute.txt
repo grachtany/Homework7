@@ -1,0 +1,15 @@
+D:\Обучение\HomeWork7\task50\obj\Debug\net6.0\task50.csproj.AssemblyReference.cache
+D:\Обучение\HomeWork7\task50\obj\Debug\net6.0\task50.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\HomeWork7\task50\obj\Debug\net6.0\task50.AssemblyInfoInputs.cache
+D:\Обучение\HomeWork7\task50\obj\Debug\net6.0\task50.AssemblyInfo.cs
+D:\Обучение\HomeWork7\task50\obj\Debug\net6.0\task50.csproj.CoreCompileInputs.cache
+D:\Обучение\HomeWork7\task50\bin\Debug\net6.0\task50.exe
+D:\Обучение\HomeWork7\task50\bin\Debug\net6.0\task50.deps.json
+D:\Обучение\HomeWork7\task50\bin\Debug\net6.0\task50.runtimeconfig.json
+D:\Обучение\HomeWork7\task50\bin\Debug\net6.0\task50.dll
+D:\Обучение\HomeWork7\task50\bin\Debug\net6.0\task50.pdb
+D:\Обучение\HomeWork7\task50\obj\Debug\net6.0\task50.dll
+D:\Обучение\HomeWork7\task50\obj\Debug\net6.0\refint\task50.dll
+D:\Обучение\HomeWork7\task50\obj\Debug\net6.0\task50.pdb
+D:\Обучение\HomeWork7\task50\obj\Debug\net6.0\task50.genruntimeconfig.cache
+D:\Обучение\HomeWork7\task50\obj\Debug\net6.0\ref\task50.dll
